@@ -1,0 +1,27 @@
+_repo: The-Beloved-Woman_28301
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norris, Kathleen Thompson
+    birthdate: 1880
+    deathdate: 1966
+    gutenberg_agent_id: '1247'
+    url: http://www.gutenberg.org/2009/agents/1247
+    wikipedia: http://en.wikipedia.org/wiki/Kathleen_Norris
+description: ''
+gutenberg_issued: '2009-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Beloved Woman
+url: http://www.gutenberg.org/ebooks/28301
